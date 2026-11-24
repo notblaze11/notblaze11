@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**notblaze11/notblaze11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm a Cybersecurity Student 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my skills in cybersecurity through practical exercises, personal projects, and hands-on labs.
+
+## 🔐 Areas of Learning
+- Linux Administration
+- Cybersecurity Fundamentals
+- Networking and Network Security
+- Log Analysis
+- User and File Permissions
+- Security Operations
+
+## 🛠️ Tools & Technologies
+- Linux
+- Git & GitHub
+- Bash
+- Wireshark
+- Nmap
+- Python
+
+## 📂 Practical Projects
+- Linux Commands Practical
+- Linux User and Group Management
+- Linux File Permissions
+- System Log Analysis
+- Access Log Analysis
+
+## 🎯 Current Goals
+- Build practical cybersecurity projects.
+- Improve Linux administration skills.
+- Develop networking and security skills.
+- Build a cybersecurity portfolio.
+
+## 📫 Connect With Me
+- GitHub: [Your GitHub Profile]
+- LinkedIn: [Your LinkedIn URL]
